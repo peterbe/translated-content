@@ -3355,12 +3355,6 @@
       "marjot"
     ]
   },
-  "Web/API/FullscreenOptions": {
-    "modified": "2020-10-15T22:20:23.450Z",
-    "contributors": [
-      "Gerak842"
-    ]
-  },
   "Web/API/Fullscreen_API": {
     "modified": "2019-07-07T13:00:37.918Z",
     "contributors": [
@@ -3693,25 +3687,6 @@
     "contributors": [
       "jannnis",
       "petzichen"
-    ]
-  },
-  "Web/API/NavigatorOnLine": {
-    "modified": "2019-03-23T22:47:26.289Z",
-    "contributors": [
-      "teoli"
-    ]
-  },
-  "Web/API/NavigatorOnLine/Online_and_offline_events": {
-    "modified": "2019-03-23T22:59:48.853Z",
-    "contributors": [
-      "chrisdavidmills",
-      "terabaud"
-    ]
-  },
-  "Web/API/NavigatorOnLine/onLine": {
-    "modified": "2019-03-23T22:47:22.054Z",
-    "contributors": [
-      "TRoskop"
     ]
   },
   "Web/API/Node": {
@@ -14554,6 +14529,12 @@
       "sv3m0r"
     ]
   },
+  "orphaned/Web/API/FullscreenOptions": {
+    "modified": "2020-10-15T22:20:23.450Z",
+    "contributors": [
+      "Gerak842"
+    ]
+  },
   "orphaned/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB": {
     "modified": "2020-01-13T04:47:55.526Z",
     "contributors": [
@@ -14567,6 +14548,25 @@
     "contributors": [
       "fscholz",
       "Sebastianz"
+    ]
+  },
+  "orphaned/Web/API/NavigatorOnLine": {
+    "modified": "2019-03-23T22:47:26.289Z",
+    "contributors": [
+      "teoli"
+    ]
+  },
+  "orphaned/Web/API/NavigatorOnLine/Online_and_offline_events": {
+    "modified": "2019-03-23T22:59:48.853Z",
+    "contributors": [
+      "chrisdavidmills",
+      "terabaud"
+    ]
+  },
+  "orphaned/Web/API/NavigatorOnLine/onLine": {
+    "modified": "2019-03-23T22:47:22.054Z",
+    "contributors": [
+      "TRoskop"
     ]
   },
   "orphaned/Web/API/Node/setUserData": {
